@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         
-## array  = nums to find max_sum from nums sub array = {1, 2 3, 4}
+# array  = nums to find max_sum from nums sub array = {1, 2 3, 4}
 
         if not nums:
             return 0
@@ -31,5 +31,5 @@ class Solution(object):
     
     
     
-    
+  
     
